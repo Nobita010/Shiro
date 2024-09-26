@@ -5,10 +5,10 @@ import { buildOnchainMetadata } from '../utils/jetton-helpers';
 
 export async function run(provider: NetworkProvider) {
     const jettonParams = {
-        name: "Nikandr Token",
-        description: "Official token of the Nikandr Surkov Youtube channel :) https://www.youtube.com/@NikandrSurkov",
-        symbol: "NIKANDR",
-        image: "https://violet-traditional-rabbit-103.mypinata.cloud/ipfs/QmUgZ3kWg36tCVSZeVKXkvsdXkn6dqigqjoBZto9Y8h37z",
+        name: "Shiro Token",
+        description: "Official token of the Shiros",
+        symbol: "SHT",
+        image: "https://ibb.co.com/CVDYBTf",
     };
 
     // Create content Cell

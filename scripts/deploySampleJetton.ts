@@ -8,7 +8,7 @@ export async function run(provider: NetworkProvider) {
         name: "Shiro Token",
         description: "Official token of the Shiros",
         symbol: "SHT",
-        image: "https://ibb.co.com/CVDYBTf",
+        image: "https://purple-deliberate-piranha-168.mypinata.cloud/ipfs/QmeBspFrhGCRHA1VCfRW9EooAZJQ2FEm4xcuBE9Jgg77A2",
     };
 
     // Create content Cell

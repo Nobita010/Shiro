@@ -5,9 +5,9 @@ import { buildOnchainMetadata } from '../utils/jetton-helpers';
 
 export async function run(provider: NetworkProvider) {
     const jettonParams = {
-        name: "Shiro Token",
+        name: "Shiros Token",
         description: "Official token of the Shiros",
-        symbol: "SHT",
+        symbol: "ST",
         image: "https://purple-deliberate-piranha-168.mypinata.cloud/ipfs/QmeBspFrhGCRHA1VCfRW9EooAZJQ2FEm4xcuBE9Jgg77A2",
     };
 
